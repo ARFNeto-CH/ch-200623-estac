@@ -1,0 +1,6 @@
+Informe o numero da placa [7 digitos]: ABC1212
+Informe a marca do veiculo: Ford
+Informe o modelo do veiculo: Taurus
+Informe a cor do veiculo: Azul
+Informe o ano do veiculo: 2020
+Marca/Modelo: Ford Taurus Cor: Azul Placa: ABC1212 Entrada: 2020
